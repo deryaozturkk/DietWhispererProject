@@ -19,5 +19,5 @@ Diet Whisperer projesi, aşağıdaki faydaları sağlamayı hedeflemektedir:
 
 - Kolay Erişilebilirlik: Online platform olarak hizmet veren Diet Whisperer, kullanıcıların herhangi bir cihazdan kolayca erişebileceği bir yapıya sahiptir. Böylece bireyler, istedikleri zaman ve yerde beslenme planlarına erişebilir ve diyetisyenlerle iletişim kurabilirler.
 
-### Backend: Mahire Zühal ÖZDEMİR
-### Frontend: Derya ÖZTÜRK
+#### Backend: Mahire Zühal ÖZDEMİR
+#### Frontend: Derya ÖZTÜRK
